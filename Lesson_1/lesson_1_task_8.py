@@ -1,0 +1,13 @@
+def funkA(num):
+    print(num, end = "")
+funkA(8) 
+funkA(8)
+funkA(0)
+funkA(0)
+funkA(5)
+funkA(5)
+funkA(5)
+funkA(3)
+funkA(5)
+funkA(3)
+funkA(5)
